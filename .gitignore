@@ -3,6 +3,7 @@
 #################
 
 _*
+*.asv
 
 *.pydevproject
 .project
